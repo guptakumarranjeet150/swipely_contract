@@ -4,3 +4,5 @@
 
 # Soroban wasm output
 *.wasm
+config.bat
+node_modules
